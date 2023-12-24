@@ -1,12 +1,33 @@
 # Welcome, heroes
 
-This is an exercise on pull requests. I have a problem solving a math equation and I need your help. The only way I can receive your contributions is via pull requests.
+This is an exercise on pull requests. I have a problem that I can't solve and I need your help. The only way I can receive your contributions is via pull requests.
 
-## Equation
+## Problem Statement
 
-2x<sup>3</sup> - 5x<sup>2</sup> + 3x + 7 = 0
+You are given a positive integer `n`. Your task is to find the sum of all positive integers less than or equal to `n`.
 
-Find the value of x
+## Input
+
+The input consists of a single integer `n` (1 ≤ n ≤ 10<sup>9</sup>).
+
+## Output
+
+Print a single integer, the sum of all positive integers less than or equal to `n`.
+
+## Examples
+
+Input:
+5
+
+Output:
+15
+
+Input:
+10
+
+Output:
+55
+
 
 ## Contribution
 
