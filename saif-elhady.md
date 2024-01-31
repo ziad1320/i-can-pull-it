@@ -15,7 +15,7 @@ int main()
 
     while (n)
     {
-        sum += n;
+        [Isum += n;
         n--;
     }
 
