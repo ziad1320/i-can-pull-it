@@ -1,25 +1,17 @@
-#include <iostream>
-#include <algorithm>
 #include <bits/stdc++.h>
-#include <string>
-using namespace std;
+#include <iostream>
 
 #define ll long long
 
-int main()
+int main ()
 {
-    int n;
-    int sum;
+    ll n;
     cin >> n;
+    ll sum;
 
-    while (n)
-    {
-        [Isum += n;
-        n--;
-    }
+    sum = n * (n + 1) / 2;
 
     cout << sum << endl;
 
     return 0;
 }
-
