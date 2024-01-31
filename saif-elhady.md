@@ -1,4 +1,4 @@
-``#include <bits/stdc++.h>
+```#include <bits/stdc++.h>
 #include <iostream>
 
 #define ll long long
@@ -14,4 +14,4 @@ int main ()
     cout << sum << endl;
 
     return 0;
-}``
+}```
