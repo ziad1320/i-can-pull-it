@@ -13,19 +13,8 @@ void fast()
 int main()
 {
     fast();
-    ll c=0,o=0,z=0;
-    string s;    
-    cin>>s;
-    for(int i=0;i<s.size();i++){
-        if(s[i]=='1'){
-            o++;z=0;
-        }
-        else{
-            z++;o=0;
-        }
-        if(o==7||z==7) c=1;
-    }
-    if(c==1) cout<<"YES"<<endl;
-    else cout<<"NO"<<endl;
+    ll n;
+    cin>>n;
+    cout<<n(n+1)/2;
 }
 ```
