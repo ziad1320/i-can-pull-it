@@ -1,6 +1,6 @@
 # MyCode
 ## Code using c++ language 
-```C++ language
+```
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
