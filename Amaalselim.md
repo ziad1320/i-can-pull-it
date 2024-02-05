@@ -1,5 +1,6 @@
 # MyCode
 ## Code using c++ language 
+
 ```
 #include <bits/stdc++.h>
 #define ll long long
@@ -17,4 +18,5 @@ int main()
     cin >> n;
     cout << n * (n + 1) / 2;
 }
+```
 ```
